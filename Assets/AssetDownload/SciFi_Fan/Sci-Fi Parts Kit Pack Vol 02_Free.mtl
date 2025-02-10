@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# 创建的文件:10.12.2022 11:25:30
+
+newmtl Metal_04S
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.180000 0.180000 0.180000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\REX_CASE\Sci-Fi Make\Sci-Fi Parts Kit Pack\Sci-Fi Parts Kit Pack Vol 02 Free\online\Sci-Fi Parts Kit Pack  Vol 02 Free\Metal_D_04.jpg
+	map_Kd D:\REX_CASE\Sci-Fi Make\Sci-Fi Parts Kit Pack\Sci-Fi Parts Kit Pack Vol 02 Free\online\Sci-Fi Parts Kit Pack  Vol 02 Free\Metal_D_04.jpg
+
+newmtl Metal_06S
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.180000 0.180000 0.180000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\REX_CASE\Sci-Fi Make\Sci-Fi Parts Kit Pack\Sci-Fi Parts Kit Pack Vol 02 Free\online\Sci-Fi Parts Kit Pack  Vol 02 Free\Metal_D_06.jpg
+	map_Kd D:\REX_CASE\Sci-Fi Make\Sci-Fi Parts Kit Pack\Sci-Fi Parts Kit Pack Vol 02 Free\online\Sci-Fi Parts Kit Pack  Vol 02 Free\Metal_D_06.jpg
+
+newmtl Metal_05
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.180000 0.180000 0.180000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\REX_CASE\Sci-Fi Make\Sci-Fi Parts Kit Pack\Sci-Fi Parts Kit Pack Vol 02 Free\online\Sci-Fi Parts Kit Pack  Vol 02 Free\Metal_D_05.jpg
+	map_Kd D:\REX_CASE\Sci-Fi Make\Sci-Fi Parts Kit Pack\Sci-Fi Parts Kit Pack Vol 02 Free\online\Sci-Fi Parts Kit Pack  Vol 02 Free\Metal_D_05.jpg

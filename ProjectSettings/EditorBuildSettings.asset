@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 62b1c1b9f0dfd43e6bc940a97085a658
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Level.unity
+    guid: 6855741040fdb4149a62d8baf71340dd
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: bce152c6474084e33bd1848f6d323de3
+  - enabled: 1
+    path: Assets/Scenes/Level1DeathScreen.unity
+    guid: 111b78632ea73475caa845badb0f9d3a
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 7d94787e8d732421c870208fd5adc268
+  - enabled: 1
+    path: Assets/Scenes/Level2DeathScreen.unity
+    guid: 576f5f7ef8ea6494fabf927c3234bd76
+  - enabled: 1
+    path: Assets/Scenes/Levl3.unity
+    guid: 882383debbc2242f096bdae80aeeee3a
+  - enabled: 1
+    path: Assets/Scenes/Levl3DeathScreen.unity
+    guid: 0ebf7b16ac11b45aea1bbdad65691e02
+  - enabled: 1
+    path: Assets/Scenes/Levl4.unity
+    guid: 69354e75fef0e43f4a410f9f9061aad3
+  - enabled: 1
+    path: Assets/Scenes/Levl4DeathScreen.unity
+    guid: 080f51993845d43c19dd3dedf67e2688
+  - enabled: 1
+    path: Assets/Scenes/ProtoMaps/ProtoMap3.unity
+    guid: 2cd86834f2ae942d3a66cd44518ee691
+  - enabled: 1
+    path: Assets/Scenes/ProtoMap3DeathScreen.unity
+    guid: ab3952d89385c4f1b947252004dc4ac4
+  - enabled: 1
+    path: Assets/Scenes/Hanger.unity
+    guid: 101b0a8d6f01fed478559d11c05681cf
+  m_configObjects: {}
